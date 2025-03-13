@@ -1,5 +1,6 @@
 <template>
   <div class="shared-card">
+    <div>Warning screen 1</div>
     <div class="card-header">
       <h2>{{ title }}</h2>
       <slot name="header-actions"></slot>
